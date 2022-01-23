@@ -117,19 +117,30 @@ h3 {
 }
 
 .container-input {
-  margin-top: 5px;
+  margin-top: -10px;
 }
 
 .container-input input {
-  font-size: 0.875em;
+  font-size: 1.1em;
   flex: 1;
   border: none;
-  background: none;
-  margin-inline: 1.2em;
-  min-width: 0px;
+  border-radius: 10px;
+  width: 320px;
+  height: 40px;
+  background: #f2f2f2;
 }
 
-.input button {
+input {
+  color: #631010;
+}
+
+button {
   background: #2d9cdb;
-  border-radius: 12px;
+  border-radius: 5px;
+  border: none;
+  width: 50px;
+  height: 25px;
+  font-size: 15px;
+  color: white;
+  margin-left: -20%;
 }
