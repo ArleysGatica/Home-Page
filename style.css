@@ -424,3 +424,95 @@ h1 {
   color: #333333;
   width: 27%;
 }
+
+.container-images-2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  margin-top: -5%;
+}
+
+.images-3 {
+  height: 40%;
+  width: 50%;
+}
+
+.images-3 img {
+  margin-left: 32%;
+  height: 500px;
+  height: 500px;
+  border-radius: 12px;
+  margin-top: 15%;
+  justify-content: center;
+}
+
+.images-3 p {
+  color: #828282;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  margin-left: 32%;
+}
+
+#img-mobile {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #333333;
+  width: 30%;
+  margin-left: 32%;
+}
+
+.images-4 {
+  height: 40%;
+  width: 50%;
+}
+
+.images-4 img {
+  margin-left: 2%;
+  border-radius: 12px;
+  margin-top: 0%;
+  width: 500px;
+  justify-content: center;
+}
+
+.images-4 p {
+  color: #828282;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  margin-left: 20px;
+}
+
+#img-FrontEnd {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #333333;
+  width: 32%;
+}
+
+.see-img {
+  margin: 0%;
+}
+#see {
+  color: #2d9cdb;
+  margin-left: 76%;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  margin-top: -4.5%;
+}
+
+.see-img img {
+  width: 20px;
+  height: 20px;
+  margin-left: 83%;
+  margin-top: -3.8%;
+  display: flex;
+}
