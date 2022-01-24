@@ -501,7 +501,7 @@ h1 {
 }
 #see {
   color: #2d9cdb;
-  margin-left: 76%;
+  margin-left: 73%;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -512,7 +512,75 @@ h1 {
 .see-img img {
   width: 20px;
   height: 20px;
-  margin-left: 83%;
-  margin-top: -3.8%;
+  margin-left: 79%;
+  margin-top: -3.5%;
   display: flex;
+}
+
+.container-card {
+  margin-top: 10%;
+}
+
+.card-info {
+  width: 25%;
+  display: flex;
+  margin-top: 0%;
+  flex-direction: column;
+  margin-left: 16%;
+  margin-top: 5%;
+}
+
+.card-info h5 {
+  color: #eb5757;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.card-info h2 {
+  width: 65%;
+  font-family: system-ui;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 54px;
+  margin-top: -5%;
+}
+
+.card-info p {
+  font-family: system-ui;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  width: 53%;
+  margin-top: -1%;
+  color: #4f4f4f;
+}
+
+.card-tree {
+  flex-wrap: wrap;
+  -webkit-writing-mode: vertical-rl;
+  display: table-caption;
+  text-align-last: center;
+  margin-right: 16%;
+  margin-top: -26%;
+  margin-bottom: 37%;
+  float: right;
+}
+
+.card-tree img {
+  border-radius: 24px;
+  margin: 10px 15px 12px 10px;
+}
+
+.title-down {
+  background: yellow;
+  display: flex;
+  width: 50%;
+  height: 10%;
+}
+
+#title {
+  color: rgb(121, 2, 2);
 }
