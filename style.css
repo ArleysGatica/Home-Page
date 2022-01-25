@@ -646,9 +646,7 @@ h1 {
 
 .container-footer {
   height: 100%;
-
   display: flex;
-
   color: #100e1d;
 }
 
@@ -685,4 +683,18 @@ h1 {
 }
 #input-footer-info {
   color: #ffffff;
+}
+
+.footer-URL {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background: #100e1d;
+  margin-top: 0%;
+}
+
+.footer__link {
+  color: white;
 }
