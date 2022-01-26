@@ -200,7 +200,6 @@ h1 {
 .card-1 input {
   border: none;
   border-radius: 12px;
-  background: #2d9cdb;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -218,6 +217,10 @@ h1 {
 
 .card-1:hover {
   box-shadow: 0 0 11px rgba(7, 7, 7, 0.8);
+}
+
+.card-1:hover input {
+  background: #2d9cdb;
 }
 
 .card-2 {
@@ -263,7 +266,6 @@ h1 {
 .card-2 input {
   border: none;
   border-radius: 12px;
-  background: #2d9cdb;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -281,6 +283,10 @@ h1 {
 
 .card-2:hover {
   box-shadow: 0 0 11px rgba(7, 7, 7, 0.8);
+}
+
+.card-2:hover input {
+  background: #2d9cdb;
 }
 
 .card-3 {
@@ -326,7 +332,6 @@ h1 {
 .card-3 input {
   border: none;
   border-radius: 12px;
-  background: #2d9cdb;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -344,6 +349,10 @@ h1 {
 
 .card-3:hover {
   box-shadow: 0 0 11px rgba(7, 7, 7, 0.8);
+}
+
+.card-3:hover input {
+  background: #2d9cdb;
 }
 
 #h1bajo {
